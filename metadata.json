@@ -1,0 +1,6 @@
+{
+  "name": "NeuroPredict AI",
+  "description": "AI-assisted clinical decision support for early Alzheimer's diagnosis using multimodal MRI and cognitive metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
